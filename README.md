@@ -2,7 +2,7 @@
 
 This repository is forked from [ecmwf-projects/mooc-machine-learning-weather-climate](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate). The latter upstream repository hosts the [Jupyter notebook](https://jupyter.org/) based exercises of the Massive Open Online Course (MOOC) on Machine Learning in Weather & Climate (https://www.ecmwf.int/mlwc-mooc).
 
-:point_right: To distinguish the original notebook exercices from my solutions/tests, each original notebook `notebook.ipynb` is copied and renamed as `notebook_GF.ipynb` where I implement my modifications. 
+:point_right: To distinguish the original notebook exercices from my solutions/tests, each original notebook `notebook.ipynb` is copied and renamed as `notebook_GF.ipynb` where I implement my modifications if any. 
 
 :point_right: My certificate of completion is available [here](reports/Certificate_of_Completion.pdf).
 
