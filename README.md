@@ -2,9 +2,9 @@
 
 This repository is forked from [ecmwf-projects/mooc-machine-learning-weather-climate](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate). The latter upstream repository hosts the [Jupyter notebook](https://jupyter.org/) based exercises of the Massive Open Online Course (MOOC) on Machine Learning in Weather & Climate (https://www.ecmwf.int/mlwc-mooc).
 
-:point_right: To distinguish the original notebook exercices from my solutions/tests, each original notebook `notebook.ipynb` is copied and renamed as `notebook_GF.ipynb` where I implement my modifications if any. 
+To distinguish the original notebook exercices from my solutions/tests, each original notebook `notebook.ipynb` is copied and renamed as `notebook_GF.ipynb` where I implement my modifications if any. 
 
-:point_right: My certificate of completion is available [here](reports/Certificate_of_Completion.pdf).
+:mortar_board: My certificate of completion is available [here](Certificate_of_Completion.pdf).
 
 ## [Tier 1 notebooks (ML in Weather & Climate)](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/tree/main/tier_1)
 In this tier there is only one notebook that demonstrates how to build a simple neural network on the WeatherBench dataset.
